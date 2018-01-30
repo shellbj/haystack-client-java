@@ -19,6 +19,7 @@
 
     <modules>
       <module>annotations</module>
+      <module>apache-httpclient</module>
       <module>dropwizard</module>
       <module>jaxrs2</module>
     </modules>
